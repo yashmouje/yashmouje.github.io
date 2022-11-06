@@ -16,5 +16,3 @@ We learned how to access APIs and use JavaScript to make the website interactive
 # What's next for GreenScore
 We will work on making the GreenQuiz more fun and give it a better UI, as it has the potential to attract a lot of visitors to our website.
 # Built With HTML, CSS, JavaScript, Bootstrap
-
-# Daddy Project
